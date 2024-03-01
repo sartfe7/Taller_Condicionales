@@ -5,7 +5,7 @@
 ingreso_mensual = int(input("Ingrese su ingreso mensual: "))
 
 
-if ingreso_mensual > 945200:
+if ingreso_mensual >= 945200:
 
     deuda = input("¿Tiene alguna otra deuda? (sí/no): ")
     
