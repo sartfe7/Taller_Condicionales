@@ -26,4 +26,4 @@ elif IMC > 40:
 
 # Output
 
-print("Su IMC es",IMC,"y su resultado es",RESULTADO,)
+print("Su IMC es",IMC,"y su resultado es 😊",RESULTADO,)
