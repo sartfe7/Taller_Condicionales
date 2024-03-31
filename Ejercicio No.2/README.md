@@ -1,5 +1,4 @@
-# Prestamo Bancario
-Programa para saber si usted puede adquirir un prestamo en el banco segun su ingreso mensual y si tiene deudas anteriores o presentes
+# Programa para saber si usted puede adquirir un prestamo en el banco segun su ingreso mensual y si tiene deudas anteriores o presentes
 
 
 # ANALISIS
