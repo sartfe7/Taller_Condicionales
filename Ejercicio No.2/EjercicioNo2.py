@@ -1,4 +1,4 @@
-# Programa para solicitar un prestamo
+1000# Programa para solicitar un prestamo
 
 # Entrada
 
